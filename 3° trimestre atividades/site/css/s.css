@@ -1,0 +1,22 @@
+body {
+    background-color: #126407;
+    font-family: sans-serif;
+}
+
+.principal {
+    width: 50px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.botão button{
+    padding: 100px, 70px;
+    border: none;
+    background-color: #000000;
+    color: #ffffff;
+    font-weight: bold;
+    cursor: pointer;
+}
+.botão button:hover {
+    background-color: #f57878;
+}
